@@ -1,6 +1,6 @@
 # A simple web server in x86\_64 nasm
 
-!(thumbnail)[thumbnail.png]
+![thumbnail](thumbnail.png)
 
 ## Build
 ```console
