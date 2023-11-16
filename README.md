@@ -7,3 +7,6 @@
 nasm -f elf64 main.asm -o main.o
 ld main.o -o main.out
 ```
+
+## Todo
+- Use NASM macros for code factorization.
